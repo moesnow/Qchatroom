@@ -1,0 +1,3 @@
+#!/bin/sh
+cd server && qmake && make
+cd ../client && qmake && make
