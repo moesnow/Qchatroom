@@ -24,6 +24,16 @@ open server/server.app
 open -n client/client.app
 ```
 
+#### Linux
+
+```bash
+./server/server
+```
+
+```bash
+./client/client
+```
+
 ## 示例
 
 ![server](./screenshot/server.png)
