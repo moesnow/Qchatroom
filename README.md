@@ -1,6 +1,6 @@
 # Qchatroom
 
-基于Qt开发的多人聊天室
+基于Qt开发的多人聊天室，支持 Windows、macOS、Linux
 
 ## 编译
 
@@ -8,7 +8,7 @@
 
 ```bash
 git clone https://github.com/moesnow/Qchatroom.git
-cd Qchatroom
+cd Qchatroom/Unix-like
 ./build
 ```
 
